@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/yt" />
+            <option value="$PROJECT_DIR$/yt/java" />
+            <option value="$PROJECT_DIR$/yt/java/annotations" />
+            <option value="$PROJECT_DIR$/yt/java/skiff" />
+            <option value="$PROJECT_DIR$/yt/java/type-info" />
+            <option value="$PROJECT_DIR$/yt/java/yson" />
+            <option value="$PROJECT_DIR$/yt/java/yson-tree" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-core" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/cypress-operations-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/dynamic-table-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/map-entity-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/map-reduce-entity-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/map-reduce-ytree-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/map-ytree-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/read-write-entity-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/read-write-ytree-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/reduce-entity-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-client-examples/reduce-ytree-example" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-testlib" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-testlib/src" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-testlib/src/main" />
+            <option value="$PROJECT_DIR$/yt/java/ytsaurus-testlib/src/main/proto" />
+            <option value="$PROJECT_DIR$/yt/yt_proto" />
+            <option value="$PROJECT_DIR$/yt/yt_proto/yt" />
+            <option value="$PROJECT_DIR$/yt/yt_proto/yt/client" />
+            <option value="$PROJECT_DIR$/yt/yt_proto/yt/core" />
+            <option value="$PROJECT_DIR$/yt/yt_proto/yt/formats" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,1 +1,0 @@
--r ../../yt/scripts/pytest_requirements.txt

@@ -1,1 +1,0 @@
-{% include [Управление пулами](../../../_includes/user-guide/data-processing/scheduler/manage-pools.md) %}

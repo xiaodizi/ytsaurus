@@ -1,9 +1,0 @@
-PROTO_LIBRARY()
-
-SRCS(
-    timers.proto
-)
-
-EXCLUDE_TAGS(GO_PROTO)
-
-END()

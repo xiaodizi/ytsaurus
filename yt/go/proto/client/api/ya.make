@@ -1,1 +1,0 @@
-RECURSE(rpc_proxy)

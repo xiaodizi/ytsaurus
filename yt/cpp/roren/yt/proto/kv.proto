@@ -1,8 +1,0 @@
-package NRoren;
-
-// Proto message for intermediate tables
-message TKVProto
-{
-    optional string Key = 1;
-    optional string Value = 2;
-}

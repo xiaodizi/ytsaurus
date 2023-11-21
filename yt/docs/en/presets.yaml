@@ -1,6 +1,0 @@
-default:
-    audience: public
-internal:
-    audience: internal
-external:
-    audience: public

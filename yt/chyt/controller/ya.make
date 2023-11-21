@@ -1,5 +1,0 @@
-RECURSE(
-    cmd
-    internal
-    test
-)

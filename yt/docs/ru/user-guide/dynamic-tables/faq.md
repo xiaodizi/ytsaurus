@@ -1,1 +1,0 @@
-{% include [FAQ](../../_includes/user-guide/dynamic-tables/faq.md) %}

@@ -1,1 +1,0 @@
-{% include [How to try](../../../_includes/user-guide/data-processing/chyt/try-chyt.md) %}

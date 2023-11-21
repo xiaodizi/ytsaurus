@@ -1,1 +1,0 @@
-{% include [Query anatomy](../../../../_includes/user-guide/data-processing/chyt/queries/anatomy.md) %}
